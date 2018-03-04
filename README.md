@@ -68,3 +68,8 @@ dependencies {
 |civ_tile_mode|特定字符串|clamp、repeat、mirror|平铺模式|
 |civ_tile_mode_x|特定字符串|clamp、repeat、mirror|X方向平铺模式|
 |civ_tile_mode_y|特定字符串|clamp、repeat、mirror|Y方向平铺模式|
+
+# 类图设计
+**圆角矩形参照了开源实现，以下是学习过程中绘制的代码类图**
+
+![类图](./docs/class_model.png)
