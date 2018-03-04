@@ -70,6 +70,6 @@ dependencies {
 |civ_tile_mode_y|特定字符串|clamp、repeat、mirror|Y方向平铺模式|
 
 # 类图设计
-**圆角矩形参照了开源实现，以下是学习过程中绘制的代码类图**
+**圆形图片控件设计参照了开源实现，以下是学习过程中绘制的代码类图**
 
 ![类图](./docs/class_model.png)
