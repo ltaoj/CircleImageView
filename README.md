@@ -1,6 +1,7 @@
 # CircleImageView
 Android Library For CircleImageView
 
+可以实现圆角矩形、圆形、椭圆图片
 
 # 使用步骤
 
